@@ -13,12 +13,6 @@
             "link": "https://reactjs.org/"
         },
         {
-            "id": 3,
-            "name": "jQuery",
-            "image": "jquery.png",
-            "link": "https://jquery.com/"
-        },
-        {
             "id": 4,
             "name": "Git",
             "image": "git.png",
