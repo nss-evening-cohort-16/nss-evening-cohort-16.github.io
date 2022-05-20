@@ -56,9 +56,9 @@
         },
         {
             "id": 11,
-            "name": "Materialize",
-            "image": "materialize.png",
-            "link": "http://materializecss.com/"
+            "name": "Styled Components",
+            "image": "Styledcomponents.png",
+            "link": "https://styled-components.com/"
         },
         {
             "id": 12,
