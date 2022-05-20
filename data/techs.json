@@ -8,9 +8,9 @@
         },
         {
             "id": 2,
-            "name": "AngularJS",
-            "image": "angularjs.png",
-            "link": "https://angularjs.org/"
+            "name": "ReactJS",
+            "image": "React.png",
+            "link": "https://reactjs.org/"
         },
         {
             "id": 3,
@@ -86,9 +86,9 @@
         },
         {
             "id": 15,
-            "name": "SQLite3",
-            "image": "sqlite.png",
-            "link": "https://www.sqlite.org/"
+            "name": "T-Sql",
+            "image": "T-SQL.png",
+            "link": "https://www.tsql.info/"
         },
         {
             "id": 16,
@@ -131,12 +131,7 @@
             "name": "ES lint",
             "image": "eslint.png",
             "link": "https://eslint.org/"
-        },
-        {
-            "id": 23,
-            "name": "UglifyJs",
-            "image": "uglify.png",
-            "link": "https://www.npmjs.com/package/uglifyjs"
         }
+     
     ]
 }
