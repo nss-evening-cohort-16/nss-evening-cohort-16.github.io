@@ -10,7 +10,7 @@
             "linkedIn": "https://www.linkedin.com/in/luke-allen-1610",
             "portfolio": "",
             "email": "lukus2013@yahoo.com ",
-            "proImg": "",
+            "proImg": "lallenpro.jpg",
             "funImg": ""
         },
         {
@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/derek-baylor/",
             "portfolio": "https://derek-baylor.netlify.app/",
             "email": "dbaylor25@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "dbaylorpro.jpg",
+            "funImg": "dbaylorfun.jpg"
         },
         {
             "id": 3,
@@ -45,12 +45,12 @@
             "lastName": "Parker",
             "reelThemIn": "",
             "bio": "",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "",
-            "funImg": ""
+            "github": "https://github.com/austincparker",
+            "linkedIn": "https://www.linkedin.com/in/austincparker/",
+            "portfolio": "https://austincparker.com/",
+            "email": "https://austincparker.com/",
+            "proImg": "aparkerpro.png",
+            "funImg": "aparkerfun.png"
         },
         {
             "id": 5,
@@ -75,8 +75,8 @@
             "linkedIn": "https://www.linkedin.com/in/madden-purcell/",
             "portfolio": "https://madden-purcell-codes.com",
             "email": "maddenpurcell@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "mpurcellpro.jpg",
+            "funImg": "mpurcellfun.jpg"
         },
         {
             "id": 7,
@@ -88,7 +88,7 @@
             "linkedIn": "https://www.linkedin.com/in/grace-sutherland4724/",
             "portfolio": "https://grace-sutherland.netlify.app/",
             "email": "gracesutherland4724@gmail.com",
-            "proImg": "",
+            "proImg": "gsutherlandpro.jpg",
             "funImg": ""
         },
         {
@@ -101,8 +101,8 @@
             "linkedIn": "https://www.linkedin.com/in/charnissa-m-5141a358/",
             "portfolio": "https://github.com/Nissa2424/NM-Personal-Bio",
             "email": "nissa2424@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "nmckinneypro.jpg",
+            "funImg": "nmckinneyfun.jpg"
         },
         {
             "id": 9,
@@ -114,8 +114,8 @@
             "linkedIn": "https://www.linkedin.com/in/malone-derek/",
             "portfolio": "https://derek-malone-personal-bio.netlify.app/",
             "email": "derek.s.malone@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "dmalonepro.jpg",
+            "funImg": "dmalonefun.jpg"
         },
         {
             "id": 10,
@@ -127,7 +127,7 @@
             "linkedIn": "https://www.linkedin.com/in/marybhunter1/",
             "portfolio": "https://marybeth-hunter.com/",
             "email": "marybhunter1@gmail.com",
-            "proImg": "",
+            "proImg": "mbhunterpro.jpeg",
             "funImg": ""
         },
         {
@@ -140,7 +140,7 @@
             "linkedIn": "https://www.linkedin.com/in/daniel-sitarek/",
             "portfolio": "https://www.daniel-sitarek.com/",
             "email": "deltasierra777@gmail.com",
-            "proImg": "",
+            "proImg": "dsitarekpro.jpeg",
             "funImg": ""
         },
         {
@@ -166,7 +166,7 @@
             "linkedIn": "https://www.linkedin.com/in/david-vareba/",
             "portfolio": "https://github.com/davidvareba/Portfolio",
             "email": "",
-            "proImg": "",
+            "proImg": "dvarebapro.jpg",
             "funImg": ""
         },
         {
@@ -205,8 +205,8 @@
             "linkedIn": "https://www.linkedin.com/in/meseret-gebremariam-a5b035232/",
             "portfolio": "https://mng-personal-biosite.netlify.app/",
             "email": "meseret1910@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "mgabremariampro.jpg",
+            "funImg": "mgabremariamfun.jpg"
         },
         {
             "id": 17,
@@ -231,8 +231,8 @@
             "linkedIn": "https://www.linkedin.com/in/k-thacker/",
             "portfolio": "",
             "email": "klaythackerworkmail@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "kthackerpro.jpg",
+            "funImg": "kthackerfun.jpg"
         },
         {
             "id": 19,
@@ -257,8 +257,8 @@
             "linkedIn": "https://www.linkedin.com/in/joe-gibbs-nashville/",
             "portfolio": "",
             "email": "joseph.gibbs1188@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "jgibbspro.jpg",
+            "funImg": "jgibbsfun.jpg"
         }
     ]
 }
