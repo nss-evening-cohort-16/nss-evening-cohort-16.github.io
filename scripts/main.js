@@ -16,28 +16,28 @@ function cohortMembers(list) {
   data.forEach(function (item) {
     let studentContact = `<div class="studentContact">`
     //if student doesn't have a portfolio site then don't display the icon
-    if (item.portfolio != null) {
+    if (item.portfolio != "") {
 
       studentContact += `<a href=${item.portfolio} target="_blank">
       <i class="fas fa-globe fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a github site then don't display the icon
-    if (item.github != null) {
+    if (item.github != "") {
 
       studentContact += `<a href=${item.github} target="_blank">
       <i class="fab fa-github fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a linkedin site then don't display the icon
-    if (item.linkedIn != null) {
+    if (item.linkedIn != "") {
 
       studentContact += `<a href=${item.linkedIn} target="_blank">
       <i class="fab fa-linkedin fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have an email then don't display the icon
-    if (item.email != null) {
+    if (item.email != "") {
 
       studentContact += `<a href=mailto:${item.email}>
               <i class="fas fa-envelope fa-2x contactIcons"></i>
@@ -46,7 +46,7 @@ function cohortMembers(list) {
     studentContact += `</div>`
 
     let studentInfo = `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
+          <img class="card-img-top" src="images/classmates/${item.proImg || "classmatelogo.png"}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
     //if student didn't provide a reelthemin quote then nothing is displayed
@@ -76,7 +76,7 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
+            <center><img src="images/classmates/${item.funImg || "classmatelogo.png"}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
 
             `
 
