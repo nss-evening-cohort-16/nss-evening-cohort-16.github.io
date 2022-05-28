@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/albertchittaphong/",
             "portfolio": "https://albertchittaphong.netlify.app/",
             "email": "albert.w.chittaphong@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "achittaphongpro.jpg",
+            "funImg": "achittaphongfun.jpg"
         },
         {
             "id": 4,
@@ -57,12 +57,12 @@
             "firstName": "Craig",
             "lastName": "Wellspring",
             "reelThemIn": "",
-            "bio": "",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "",
+            "bio": "Hello, I'm Craig. I’ve been coding since I discovered game modding as a young teenager. I worked in kitchens for most of my early life but software development has always been my passion.",
+            "github": "https://github.com/Craig-Wellspring",
+            "linkedIn": "https://www.linkedin.com/in/craigwellspring/",
+            "portfolio": "https://craig-wellspring.netlify.app/",
+            "email": "wellspring.craig@gmail.com",
+            "proImg": "cwellspringpro.jpg",
             "funImg": ""
         },
         {
@@ -70,7 +70,7 @@
             "firstName": "Madden",
             "lastName": "Purcell",
             "reelThemIn": "",
-            "bio": "What you call it when computer programmers make fun of each other? Cyber boolean… <br> <br> Hello! My name is Madden Purcell and I have been coding since March 2021. I started coding to develop new skills during lockdown, and I immediately fell in love. I enjoy the structure of good code, yet have a great time getting creative with different solutions!!",
+            "bio": "What you call it when computer programmers make fun of each other? Cyber boolean… <br> <br> Hello! My name is Madden Purcell and I have been coding since March 2021. I started coding to develop new skills during lockdown, and I immediately fell in love. I enjoy the structure of good code, yet have a great time getting creative with different solutions!! In my free time, I enjoy kayaking, playing and writing music, video games, and hanging out with my gecko, Rhae",
             "github": "https://github.com/pmpurcell5",
             "linkedIn": "https://www.linkedin.com/in/madden-purcell/",
             "portfolio": "https://madden-purcell-codes.com",
@@ -148,11 +148,11 @@
             "firstName": "Dario",
             "lastName": "Perez",
             "reelThemIn": "",
-            "bio": "",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
+            "bio": "Hi, my name is Dario Perez. I am originally from Trinidad and Tobago, moved to New York, and live in Nashville. I love traveling and experiencing new cultures. My passion for software developlemt began after I decided to do the jumpstart to web development at NSS. Since then, I've been fully committed to learning software development. ",
+            "github": "https://github.com/darioperez1415",
+            "linkedIn": "https://www.linkedin.com/in/darioperez1415/",
+            "portfolio": "https://github.com/darioperez1415/dp-personal-bio-site",
+            "email": "darioperez1415@gmail.com",
             "proImg": "",
             "funImg": ""
         },
@@ -179,7 +179,7 @@
             "linkedIn": "http://www.linkedin.com/in/hldyer",
             "portfolio": "https://hld-portfolio.netlify.app/",
             "email": "halie.l.dyer@gmail.com",
-            "proImg": "",
+            "proImg": "hdyerpro.jpg",
             "funImg": ""
         },
         {
@@ -192,7 +192,7 @@
             "linkedIn": "https://www.linkedin.com/in/gabriel-smith-2a24b4220/",
             "portfolio": "https://gabriel-smith-bio-site.netlify.app/",
             "email": "https://gabriel-smith-bio-site.netlify.app/",
-            "proImg": "",
+            "proImg": "gsmithpro.jpg",
             "funImg": ""
         },
         {
@@ -213,11 +213,11 @@
             "firstName": "Nathan",
             "lastName": "Blackman",
             "reelThemIn": "",
-            "bio": "",
-            "github": "",
-            "linkedIn": "",
+            "bio": "I love technology and helping others. Creative thinking. Enjoys producing videos and playing video games in my spare time. Would one day want to start a company of my own.",
+            "github": "https://github.com/NathanBlackman",
+            "linkedIn": "https://www.linkedin.com/in/nathan-blackman-979344200/",
             "portfolio": "",
-            "email": "",
+            "email": "nathanpgblackman@gmail.com",
             "proImg": "",
             "funImg": ""
         },
@@ -244,7 +244,7 @@
             "linkedIn": "http://www.linkedin.com/in/hspace3d",
             "portfolio": "https://harika11.netlify.app/about",
             "email": "hcodes11@gmail.com",
-            "proImg": "",
+            "proImg": "hsuvakpro.jpg",
             "funImg": ""
         },
         {
