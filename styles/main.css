@@ -197,7 +197,14 @@ button{
     color: white!important;
     background-color: #238193!important;
 }
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding-top: 5px;
+    margin-bottom: 0;
+  }
 /* adjusts size of contact icons depending on size of card */
 @media (min-width: 992px) and (max-width: 1200px){
     .fa-3x{
